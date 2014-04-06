@@ -1,4 +1,4 @@
-CS 111 Lab 1 Makefile
+# CS 111 Lab 1 Makefile
 
 CC = gcc
 CFLAGS = -g 
